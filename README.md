@@ -4,7 +4,6 @@ An interactive Excel dashboard project built to analyze coffee shop sales perfor
 
  ## DATASET
  DATASET
- <a href = "https://github.com/Nimishaa6/coffee-shop-sales-dashboard/blob/main/Coffee%20Shop%20Sales%20Data...xlsx" >dataset view </a>
  ## 📈 Key Insights
 - Total Revenue: $46,374
 - Total Profit: $16,231
@@ -21,7 +20,6 @@ An interactive Excel dashboard project built to analyze coffee shop sales perfor
 - Yearly Category Performance
 - Weekday Transaction Analysis
 - Interactive Slicers (Month, Year, City)
- <a href = "https://github.com/Nimishaa6/coffee-shop-sales-dashboard/blob/main/coffee.png" >dashboard </a>
  
 ## 🛠 Tools Used
 - Microsoft Excel
@@ -30,12 +28,6 @@ An interactive Excel dashboard project built to analyze coffee shop sales perfor
 - Slicers
 - Data Cleaning
 - Dashboard Design
-
-
-## 📂 Files Included
-- Excel Dashboard File
-- Dataset 
-- Dashboard Screenshot
 
  ## Project Insights
 - Desserts generated the highest sales among all product categories.
@@ -50,9 +42,8 @@ An interactive Excel dashboard project built to analyze coffee shop sales perfor
 The Coffee Shop Sales Dashboard successfully transformed raw sales data into interactive and meaningful business insights using Microsoft Excel. Through data visualization and analysis, the project helped identify sales trends, top-performing categories, city-wise revenue distribution, and profit performance.
 
 This project enhanced practical skills in data analysis, dashboard development, and business intelligence while demonstrating how Excel can be used effectively for real-world data-driven decision-making.
-## 📸 Dashboard Preview
-<img width="1162" height="600" alt="coffee" src="https://github.com/user-attachments/assets/6b2cdd40-ca2c-47bc-afed-bd52535e32a9" />
+
 
 
 ---
-Created by Chauhan Nimisha
+Created by Sundharamoorthi
